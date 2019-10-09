@@ -17,3 +17,6 @@ https://www.youtube.com/watch?v=Hkr60GE5yfY<br>
 https://www.youtube.com/watch?v=k_D_Qu0cgu8<br>
 ESP32 TTGO T-Call SIM800L example: https://randomnerdtutorials.com/esp32-sim800l-publish-data-to-cloud/<br>  
 ESP32 TTGO T-Call SIM800L video: https://www.youtube.com/watch?v=aCeVsySh-v4
+
+MicroPython: https://docs.micropython.org/en/latest/index.html<br>
+MicroPython Quick Refence Guide for ESP32: https://docs.micropython.org/en/latest/esp32/quickref.html<br>
