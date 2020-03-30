@@ -22,3 +22,4 @@ MicroPython: https://docs.micropython.org/en/latest/index.html<br>
 MicroPython Quick Refence Guide for ESP32: https://docs.micropython.org/en/latest/esp32/quickref.html<br>
 
 Editor y visualizador de páginas html: https://www.w3schools.com/tryit/<br>
+ESP32 Debugger: https://www.youtube.com/watch?v=TivyIFF-dzw&feature=emb_title <br>
